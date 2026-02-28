@@ -11,6 +11,7 @@ I am a Computer Science student at THWS.
 My academic focus lies in understanding software systems from a technical perspective, including system-level programming and connected software environments.
 
 I am particularly interested in the intersection of software systems with automotive, autonomous, and industrial applications.
+
 ---
 
 ## 🛠 Technical Skills
