@@ -4,7 +4,7 @@
 💻 Software Systems • Backend Development • System Programming
 
 ---
-🧠 About Me
+**🧠 About Me**
 
 I am a Computer Science student at THWS.
 
