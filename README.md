@@ -4,17 +4,13 @@
 💻 Software Systems • Backend Development • System Programming
 
 ---
+🧠 About Me
 
-## 🧠 About Me
+I am a Computer Science student currently in my 6th semester at THWS.
 
-I am a Computer Science student at THWS.
+My academic focus lies in understanding software systems from a technical perspective, including system-level programming and connected software environments.
 
-My focus lies in understanding software systems beyond basic application development — including backend architectures, operating systems concepts, and system-level programming.
-
-Through university projects and personal work, I aim to connect theoretical foundations with practical implementations.
-
----
-
+I am particularly interested in the intersection of software systems with automotive, autonomous, and industrial applications.
 ---
 
 ## 🛠 Technical Skills
@@ -59,6 +55,10 @@ Reimplementation of a classic command-line tool to explore system-level programm
 * Expanding backend development skills
 * Exploring system security concepts
 * Building system-level projects
+* Exploring automotive & autonomous software domains
+* Expanding knowledge of system and software security
+
+
 
 
 
