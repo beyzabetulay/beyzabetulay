@@ -6,7 +6,7 @@
 ---
 🧠 About Me
 
-I am a Computer Science student currently in my 6th semester at THWS.
+I am a Computer Science student at THWS.
 
 My academic focus lies in understanding software systems from a technical perspective, including system-level programming and connected software environments.
 
