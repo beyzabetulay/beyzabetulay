@@ -1,36 +1,37 @@
 # Hi, I'm Beyza 👋
 
-🎓 B.Eng. Informatik Student @ Technische Hochschule Würzburg-Schweinfurt (THWS)
-💻 Linux • System Programming • Backend Systems
+🎓 B.Eng. Computer Science Student @ Technische Hochschule Würzburg-Schweinfurt (THWS)  
+💻 Software Systems • Backend Development • System Programming
 
 ---
 
 ## 🧠 About Me
 
-I am an Informatik student in my 6th semester at THWS, focusing on system-oriented software development.
+I am a Computer Science student at THWS.
 
-My interests lie in understanding how software works internally — from Linux command-line tools to IoT systems and low-level programming.
+My focus lies in understanding software systems beyond basic application development — including backend architectures, operating systems concepts, and system-level programming.
 
-I am currently expanding my knowledge towards system security and Linux internals.
+Through university projects and personal work, I aim to connect theoretical foundations with practical implementations.
 
 ---
 
-## 🛠 Tech Stack
+---
 
-**Languages**
+## 🛠 Technical Skills
 
-* Java
-* Bash
-* C
-* SQL
+**Programming Languages**
+- C
+- Java
+- Bash
+- SQL
 
-**Technologies**
-
-* Linux (Ubuntu, Kali Linux)
-* Git & GitHub
-* Virtual Machines
-* Networking Fundamentals
-* IoT Systems
+**Concepts & Technologies**
+- Software Engineering
+- Backend Systems
+- Operating Systems Fundamentals
+- Networking Basics
+- IoT Systems
+- Git & Version Control
 
 **Currently Learning**
 
@@ -43,18 +44,23 @@ I am currently expanding my knowledge towards system security and Linux internal
 ## 🚀 Projects
 
 🌱 AgriSense — IoT Smart Agriculture System
+University project focusing on sensor integration and system architecture. 
 ➡️ https://github.com/beyzabetulay/agrisense-backend-main
 
 🔍 Grep Implementation in C
+Reimplementation of a classic command-line tool to explore system-level programming concepts.
 ➡️ https://github.com/CihanC1/Grep_Command
 
 ---
 
 ## 🎯 Current Focus
 
-* Deepening Linux knowledge
+* Strengthening system programming knowledge
+* Expanding backend development skills
+* Exploring system security concepts
 * Building system-level projects
-* Moving towards Security Engineering
+
+
 
 <!--
 **beyzabetulay/beyzabetulay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
