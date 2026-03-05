@@ -40,6 +40,10 @@ I am particularly interested in the intersection of software systems with automo
 
 ## 🚀 Projects
 
+🌐 **AgriSense Web — Full-Stack Monitoring Platform**  
+Full-stack web interface for the AgriSense system providing sensor monitoring, alerts, and data visualization.  
+➡️ https://github.com/beyzabetulay/agrisense-web
+
 🌱 AgriSense — IoT Smart Agriculture System
 University project focusing on sensor integration and system architecture. 
 ➡️ https://github.com/beyzabetulay/agrisense-backend-main
