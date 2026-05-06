@@ -48,10 +48,6 @@ Full-stack web interface for the AgriSense system providing sensor monitoring, a
 University project focusing on sensor integration and system architecture. 
 ➡️ https://github.com/beyzabetulay/agrisense-backend-main
 
-🔍 Grep Implementation in C
-Reimplementation of a classic command-line tool to explore system-level programming concepts.
-➡️ https://github.com/CihanC1/Grep_Command
-
 ---
 
 ## 🎯 Current Focus
