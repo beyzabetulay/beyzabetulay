@@ -114,5 +114,5 @@ The backend provides the API foundation for an IoT-based smart agriculture monit
 ## Contact
 
 - GitHub: [github.com/beyzabetulay](https://github.com/beyzabetulay)
-- LinkedIn: [linkedin.com/in/beyza-betul-ay](https://www.linkedin.com/in/beyza-betul-ay)
+- LinkedIn: [linkedin.com/in/beyza-betuel-ay](https://www.linkedin.com/in/beyza-betuel-ay)
 - E-mail: [aybeyzabetul@gmail.com](mailto:aybeyzabetul@gmail.com)
