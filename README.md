@@ -31,7 +31,7 @@ My current direction is toward **Operational Technology Security**, **Automotive
 
 ## Selected Projects
 
-### [Data Leak Detection System](https://github.com/yusufoemerkartas/darknet-leak-detection)  
+### [Data Leak Detection System](https://github.com/yusufoemerkaratas/darknet-leak-detection)
 **Status:** Active university project / ongoing development
 
 Security-oriented system for collecting, processing, classifying, and visualizing potential data exposure findings.
